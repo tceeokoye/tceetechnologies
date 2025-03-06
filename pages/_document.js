@@ -1,0 +1,14 @@
+import { Html, Head, Main, NextScript } from "next/document";
+
+export default function Document() {
+  return (
+    <Html lang="en">
+      <Head />
+      <body className="text-white">
+        <Main />
+        <NextScript />
+        <div className="font-poppins" id="navigation"></div>
+      </body>
+    </Html>
+  );
+}

@@ -1,0 +1,103 @@
+import Image from "next/image";
+
+// const openSourceProjectInfo = [
+//   {
+//     name: "RESTful(Node.js)",
+//     description:
+//       "This API exposes end points for CRUD opeartions, authentication and verification using Express.JS and MongoDB(Mongoose)",
+//     image: "api",
+//     url: "https://github.com/tcee-tech/Node_Js-REST-API.git",
+//   },
+//   {
+//     name: "GraphQL(Node.js)",
+//     description:
+//       "I developed a GraphQL project that efficiently retrieves necessary data from backend services. It provides a streamlined user experience and is more organized and easier to maintain.",
+//     image: "graphql",
+//     url: "https://github.com/tcee-tech/Node_Js-Graph-QL.git",
+//   },
+//   {
+//     name: "RESTful API(PHP)",
+//     description:
+//       "This was written with raw php that exposes end points for simple email sign up and sign in.",
+//     image: "api",
+//     url: "https://github.com/tcee-tech/PHP-API2.git",
+//   },
+//   {
+//     name: "Calender(React.js && Tailwind Css)",
+//     description:
+//       "The code provided could be of significant assistance should the need arise for integrating a functional calendar into your project.By utilizing the provided code as a foundation, you can potentially save valuable development time and effort",
+//     image: "react",
+//     url: "https://github.com/tcee-tech/opulence-calender.git",
+//   },
+//   {
+//     name: "App wide state management tool(React.js)",
+//     description:
+//       "This tool provides centralized state management, effortless integration, React Hooks compatibility, and a performance boost, pass a flag to components that you wish to exclude from rebuilding during state updates, Say goodbye to prop drilling and hello to streamlined state management.",
+//     image: "react",
+//     url: "https://github.com/tcee-tech/My-React-state-Magament-Solution-Code-using-customHooks.git",
+//   },
+// ];
+
+
+
+// const OpenSourceCode = () => {
+//   return (
+//     <section className="mt-32 ">
+//       <div>
+//         <p className="text-xl px-5 md:px-12 md:text-2xl">Some Open Source Code</p>
+//         <div className="border-primary1 border-t-2 border-opacity-50 mt-5 space-x-auto pt-5 mx-4 md:mx-12 md:pt-8 gap-7 grid col-span-1 size1:grid-cols-2 size2:grid-cols-3 size4:grid-cols-4">
+//           {openSourceProjectInfo.map((openSourceProjectData, index) => (
+//             <div key={index} className="py-2 w-full grid-cols-1 sticky top-16 size1:static size1:top-0 flex flex-col flex-grow">
+              
+//               <div className="h-64 w-full rounded-tl-lg rounded-tr-lg  overflow-hidden md:h-72">
+//                 <Image
+//                   src={`/images/${openSourceProjectData.image}.jpg`}
+//                   loading="eager"
+//                   priority
+//                   alt={openSourceProjectData.image}
+//                   className="h-full w-full object-cover"
+//                   width={540}
+//                   height={388}
+//                 />
+//               </div>
+//               <div className="flex flex-col justify-between bg-primary p-2 flex-1">
+//               <div>
+//               <p className="font-medium text-xl text-center">
+//                 {openSourceProjectData.name}
+//               </p>
+
+//               <p className="p-auto text-center text-sm leading-tight">
+//                 {openSourceProjectData.description}
+//               </p>
+//               </div>
+              
+//               <div className="flex justify-end w-full mt-2">
+//               <div><a
+//                 target="_blank"
+//                 href={openSourceProjectData.url}
+//                 className="w-max flex items-center border-primary1 border-b-2 border-opacity-50 mx-auto pb-0.5"
+//               >
+//                 <p className="text-sm">Open in GitHub</p>{" "}
+//                 <div className="ml-1">
+//                   <Image
+//                     src="/images/icon/arrow-right.svg"
+//                     alt="GitHub Link: Explore tcee-tech's Projects on GitHub"
+//                     loading="eager"
+//                     priority
+//                     className="h-4 w-4 transform -rotate-45"
+//                     width={16}
+//                     height={16}
+//                   />
+//                 </div>
+//               </a> </div> </div> </div>
+//             </div>
+//           ))}
+//         </div>
+//       </div>
+
+      
+//     </section>
+//   );
+// };
+
+// export default OpenSourceCode;
