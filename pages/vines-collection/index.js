@@ -71,3 +71,4 @@ const VinesCollection = () => {
 };
 
 export default VinesCollection;
+
