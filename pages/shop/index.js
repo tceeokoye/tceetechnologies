@@ -17,7 +17,7 @@ const shopCategory = [
   {
     title: "Software",
     sub: [
-      { title: "Website and Mobile App", link: "/opulence-developer-software" },
+      { title: "Website and Mobile App", link: "/tcee-technologies" },
      
     ],
   },
@@ -39,7 +39,7 @@ const shopCategory = [
   {
     title: "Catering", 
     sub: [
-      { title: "Splendor Cakes and Pasteries", link: "/splendor-cakes-and-pasteries" },
+      { title: "Gracy's Delight Kitchen", link: "/gracys-delight-kitchen"},
       { title: "Mercy's Cuisine", link: "/mercy-cuisine" }
     ],
   },
@@ -47,9 +47,18 @@ const shopCategory = [
   {
     title: "Fashion", 
     sub: [
-      { title: "BG Collections", link: "/ydc-clothing" },
-      { title: "Mira's Collection", link: "/miras-collection" },
-      { title: "Kings's Collection", link: "/kings-collection" }
+      { title: "BG Collections", link: "/bg-collections" },
+      { title: "Mariene Collection", link: "/mariene-collection" },
+      { title: " Vines and Jewels", link: "/vines-collection" }
+    ],
+  },
+
+  {
+    title: "Building materials", 
+    sub: [
+      { title: "E-BRIGHT Aluminium Fabrication", link: "/E-bright-aluminium" },
+      // { title: " Vines and Jewels", link: "/vines-collection" },
+      // { title: "Mariene Collection", link: "/mariene-collection" }
     ],
   },
 ];
@@ -81,7 +90,7 @@ const Shop = (props) => {
         />
         <meta
           property="og:image"
-          content="https://tcee-tech.com/images/shop/opulence-shop-socialpreview.png"
+          content="https://tceetechnologies-w3fh.vercel.app/images/shop/opulence-shop-socialpreview.png"
         />
       </Head>
     <div className="">

@@ -138,7 +138,7 @@ const CyndiDataVendor = () => {
         />
         <meta
           property="og:image"
-          content="https://tcee-tech.com/images/cynthia-data-vendor-image.png"
+          content="https://tceetechnologies-w3fh.vercel.app/images/cynthia-data-vendor-image.png"
         />
       </Head>
       <TeleCommunications

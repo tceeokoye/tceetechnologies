@@ -39,19 +39,19 @@ export default function App({ Component, pageProps }) {
               '@context': 'https://schema.org',
               '@type': 'Organization',
               name: 'Opulence Developer | Front End Software Engineer',
-              url: 'https://tcee-tech.com',
-              logo: 'https://tcee-tech.com/favicon.ico', // URL to your logo image
+              url: 'https://tceetechnologies-w3fh.vercel.app',
+              logo: 'https://tceetechnologies-w3fh.vercel.app/favicon.ico', // URL to your logo image
             }),
           }}
         />
       <meta name="theme-color" content="#03262e" /> 
         <meta
           property="og:image"
-          content="https://tcee-tech.com/images/opulence-developer-social-preview-image.png"
+          content="https://tceetechnologies-w3fh.vercel.app/images/opulence-developer-social-preview-image.png"
         />
         <meta
           property="og:url"
-          content="https://tcee-tech.com"
+          content="https://tceetechnologies-w3fh.vercel.app"
         />
         <meta property="og:type" content="website" />
       </Head>

@@ -2,10 +2,10 @@ import React from "react";
 import Head from "next/head";
 
 
-import splendorCakesAndPasteriesLogo from "../../public/images/shop/catering/splendor-cakes-and-pasteries/splendor-cakes-and-pasteries-logo.jpg";
+import GracekitchenLogo from "../../public/images/shop/catering/splendor-cakes-and-pasteries/splendor-cakes-and-pasteries-logo.jpg";
 import ShopInfo from "@/components/shop/catering/ShopInfo";
 
-const whatsappNumber = "+2348133916916";
+const whatsappNumber = "+2349163903617";
 
 const products = [ 
   { name: "Special bons", imageUrl: "special-bons.jpg" },
@@ -33,12 +33,12 @@ const products = [
   },
 ];
 
-const SplendorCakesAndPasteries = () => {
+const Gracekitchen = () => {
   return (
     <>
       <Head>
         <title>
-          Splendor Cakes and Pastries - Custom Cakes and Pastries on Order
+        Gracy's Delight Kitchen - Custom Cakes and Pastries on Order
         </title>
         <meta
           name="description"
@@ -46,12 +46,12 @@ const SplendorCakesAndPasteries = () => {
         />
         <meta
           name="keywords"
-          content="splendor Cakes and pastries, custom cakes, custom pastries, cake orders, pastry orders, celebration cakes, wedding cakes, birthday cakes, special occasion cakes, artisan cakes, gourmet pastries, bakery orders"
+          content="Gracy's Delight Kitchen, custom cakes, custom pastries, cake orders, pastry orders, celebration cakes, wedding cakes, birthday cakes, special occasion cakes, artisan cakes, gourmet pastries, bakery orders"
         />
-        <meta name="author" content="Splendor Cakes and Pastries" />
+        <meta name="author" content="Gracy's Delight Kitchen" />
         <meta
           property="og:title"
-          content="Splendor Cakes and Pastries - Custom Cakes and Pastries on Order"
+          content="Gracy's Delight Kitchen - Custom Cakes and Pastries on Order"
         />
         <meta
           property="og:description"
@@ -59,21 +59,21 @@ const SplendorCakesAndPasteries = () => {
         />
         <meta
           property="og:image"
-          content="https://tcee-tech.com/images/shop/catering/splendor-cakes-and-pasteries/splendor-cakes-and-pasteries-social-preview.png"
+          content="https://tceetechnologies-w3fh.vercel.app/images/shop/catering/graces-kitchen-and-pasteries/Gracy's-Delight-Kitchen-social-preview.png"
         />
       </Head>
 
       <ShopInfo
-        header="Splendor Cakes and Pasteries"
+        header="Gracy's Delight Kitchen"
         title="We make custom cakes and pastries on order."
-        logo={splendorCakesAndPasteriesLogo}
+        logo={GracekitchenLogo}
         subTitle="Home for yummy and tasty treats"
         products={products}
         shopImageFolder="splendor-cakes-and-pasteries"
-        whatsappNumber="+2348133916916"
+        whatsappNumber="+2349163903617"
       />
     </>
   );
 };
 
-export default SplendorCakesAndPasteries;
+export default Gracekitchen;

@@ -7,10 +7,10 @@ const codingQuotes = [
   {
     link: "/",
     quotes: "1's and 0's do not lie",
-    cite: "https://tcee-tech.com",
+    cite: "https://tceetechnologies-w3fh.vercel.app",
   },
   {
-    link: "/opulence-developer-software",
+    link: "/tcee-technologies",
     quotes: "Programming is not about typing, it's about thinking",
     cite: "https://dev.to/cleancodestudio/10-insightful-programming-wisdom-quotes-18ba",
   },
@@ -36,7 +36,7 @@ const codingQuotes = [
     link: "/shop",
     quotes:
       "Crafting digital masterpieces line by line, Tcee-tech transforms code into innovation, bytes into brilliance, and algorithms into art. Embrace the elegance of technology with me.",
-    cite: "https://tcee-tech.com/shop",
+    cite: "https://tceetechnologies-w3fh.vercel.app/shop",
   },
 ];
 var currentDate = new Date();
