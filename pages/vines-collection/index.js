@@ -23,7 +23,7 @@ const products = [
   { name: "Michael kors chain", imageUrl: "Michael-kors-chain.svg" },
   { name: "Patek phillipe chain", imageUrl: "Patek-phillipe-chain.svg" },
   { name: "Rolex chain", imageUrl: "rolex-watch.jpg" },
-  { name: " Gucci chronograph leather", imageUrl: "Gucci-chronograph-leather.jpg" },
+  { name: " Gucci chronograph leather", imageUrl: "Gucci-chronograph-leather.jpg"},
 ];
 
 
@@ -40,7 +40,7 @@ const VinesCollection = () => {
         />
         <meta
           name="keywords"
-          content=" Vines and Jewels, bags, jewelry, slippers, fashion accessories"
+          content="Vines and Jewels, bags, jewelry, slippers, fashion accessories"
         />
         <meta name="author" content="Vines and Jewels" />
         <meta
