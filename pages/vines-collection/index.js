@@ -27,7 +27,7 @@ const products = [
 ];
 
 
-const VinesCollection = () => {g
+const VinesCollection = () => {
   return (
     <>
       <Head>
