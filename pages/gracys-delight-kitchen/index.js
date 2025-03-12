@@ -2,7 +2,7 @@ import React from "react";
 import Head from "next/head";
 
 
-import GracekitchenLogo from "../../public/images/shop/catering/splendor-cakes-and-pasteries/splendor-cakes-and-pasteries-logo.jpg";
+import GracekitchenLogo from "../../public/images/shop/catering/graces-kitchen-and-pasteries/graces-kitchen-and-pasteries-logo.svg";
 import ShopInfo from "@/components/shop/catering/ShopInfo";
 
 const whatsappNumber = "+2349163903617";
@@ -59,7 +59,7 @@ const Gracekitchen = () => {
         />
         <meta
           property="og:image"
-          content="https://tceetechnologies-w3fh.vercel.app/images/shop/catering/graces-kitchen-and-pasteries/Gracy's-Delight-Kitchen-social-preview.png"
+          content="https://tceetechnologies-w3fh.vercel.app/images/shop/catering/graces-kitchen-and-pasteries/graces-kitchen-and-pasteries-logo.svg"
         />
       </Head>
 
