@@ -1,5 +1,5 @@
 import Head from "next/head";
-import ydcClothingLogo from "../../public/images/shop/clothing/ydc-clothing/BG-LOGO.svg";
+import ydcClothingLogo from "../../public/images/shop/clothing/bg-collections/BG-LOGO.svg";
 import ShopInfo from "@/components/shop/clothing/ShopInfo";
 
 const whatsappNumber = "+2347011634047";
@@ -54,7 +54,7 @@ const YdcClothing = () => {
         />
         <meta
           property="og:image"
-          content="https://Opulence.com/images/shop/clothing/ydc-clothing/ydc-clothing-social-preview.png"
+          content="https://tceetechnologies-w3fh.vercel.app/images/shop/clothing/bg-collections/Backup_of_bg collectionlogoprev.png"
         />
       </Head>
 
@@ -65,7 +65,7 @@ const YdcClothing = () => {
         subTitle="Your looking good is our business..."
         products={products}
         whatsappNumber={whatsappNumber}
-        shopImageFolder="ydc-clothing"
+        shopImageFolder="bg-collections"
       />
     </>
   );
