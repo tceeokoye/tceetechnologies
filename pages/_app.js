@@ -38,7 +38,7 @@ export default function App({ Component, pageProps }) {
             __html: JSON.stringify({
               '@context': 'https://schema.org',
               '@type': 'Organization',
-              name: 'Opulence Developer | Front End Software Engineer',
+              name: 'Tcee technologies | Front End Software Engineer',
               url: 'https://tceetechnologies-w3fh.vercel.app',
               logo: 'https://tceetechnologies-w3fh.vercel.app/favicon.ico', // URL to your logo image
             }),
@@ -47,7 +47,7 @@ export default function App({ Component, pageProps }) {
       <meta name="theme-color" content="#03262e" /> 
         <meta
           property="og:image"
-          content="https://tceetechnologies-w3fh.vercel.app/images/opulence-developer-social-preview-image.png"
+          content="https://tceetechnologies-w3fh.vercel.app/images/shop/TCEE.jpg"
         />
         <meta
           property="og:url"
