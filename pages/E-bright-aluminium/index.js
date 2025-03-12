@@ -44,7 +44,7 @@ const EbrightAluminium = () => {
         />
         <meta
           property="og:image"
-          content="https://tceetechnologies-w3fh.vercel.app/images/shop/building/E-bright-aluminium/ebrightlogo.svg"
+          content="https://tceetechnologies-w3fh.vercel.app/images/shop/building/E-bright-aluminium/e-brightLogoprev.png"
         />
       </Head>
 

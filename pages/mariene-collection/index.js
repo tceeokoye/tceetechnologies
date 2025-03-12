@@ -49,7 +49,7 @@ const MarieneCollection = () => {
         />
         <meta
           property="og:image"
-          content="https://tceetechnologies-w3fh.vercel.app/images/shop/clothing/mariene-collection/mariene-logo2.svg"
+          content="https://tceetechnologies-w3fh.vercel.app/images/shop/clothing/mariene-collection/marireneLogopreview.png"
         />
       </Head>
 
