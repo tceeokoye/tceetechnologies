@@ -18,13 +18,13 @@ const socialInfo = [
   },
   {
     imageName: "facebook",
-    link: "https://facebook.com/tcee-tech",
+    link: "https://web.facebook.com/profile.php?id=61572169841359",
     value: "tcee-tech",
   },
   {
     imageName: "facebook",
-    link: "https://facebook.com/victor.opulence",
-    value: "Tc Obichukwu",
+    link: "https://web.facebook.com/profile.php?id=61572169841359",
+    value: "tcee-tech",
   },
 ];
 
