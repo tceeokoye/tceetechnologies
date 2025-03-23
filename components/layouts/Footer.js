@@ -7,7 +7,7 @@ const codingQuotes = [
   {
     link: "/",
     quotes: "1's and 0's do not lie",
-    cite: "https://tceetechnologies-w3fh.vercel.app",
+    cite: "https://www.tceetechnologies.com",
   },
   {
     link: "/tcee-technologies",
@@ -36,7 +36,7 @@ const codingQuotes = [
     link: "/shop",
     quotes:
       "Crafting digital masterpieces line by line, Tcee-tech transforms code into innovation, bytes into brilliance, and algorithms into art. Embrace the elegance of technology with me.",
-    cite: "https://tceetechnologies-w3fh.vercel.app/shop",
+    cite: "https://www.tceetechnologies.com/shop",
   },
 ];
 var currentDate = new Date();

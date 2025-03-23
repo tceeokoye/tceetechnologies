@@ -57,7 +57,7 @@ const VenerableEnterprice = () => {
         />
         <meta
           property="og:image"
-          content="https://tceetechnologies-w3fh.vercel.app/images/shop/venerable-enterprice/venerable-enterprice-social-preview.png"
+          content="https://www.tceetechnologies.com/images/shop/venerable-enterprice/venerable-enterprice-social-preview.png"
         /> 
       </Head>
       <section className="py-20 px-5 md:px-8">

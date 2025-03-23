@@ -53,7 +53,7 @@ const VinesCollection = () => {
         />
         <meta
           property="og:image"
-          content="https://tceetechnologies-w3fh.vercel.app/images/shop/clothing/vines-collection/vines-collection-logo2.png"
+          content="https://www.tceetechnologies.com/images/shop/clothing/vines-collection/vines-collection-logo2.png"
         />
       </Head>
 

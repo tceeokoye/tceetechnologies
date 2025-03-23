@@ -90,7 +90,7 @@ const Shop = (props) => {
         />
         <meta
           property="og:image"
-          content="https://tceetechnologies-w3fh.vercel.app/images/shop/TCEE.jpg"
+          content="https://www.tceetechnologies.com/images/shop/TCEE.jpg"
         />
       </Head>
     <div className="">

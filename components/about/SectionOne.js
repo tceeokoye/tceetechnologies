@@ -11,7 +11,7 @@ const SectionOne = () => {
         <div className=" mb-4 sm:mb-0 sm:mr-8">
           <Image
             src="/images/tceetech.svg"
-            alt="Opulence Developer"
+            alt="Tcee Tech"
             className="border-2 rounded"
             loading="eager"
             priority

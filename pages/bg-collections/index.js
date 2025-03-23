@@ -54,7 +54,7 @@ const YdcClothing = () => {
         />
         <meta
           property="og:image"
-          content="https://tceetechnologies-w3fh.vercel.app/images/shop/clothing/bg-collections/Backup_of_bg collectionlogoprev.png"
+          content="https://www.tceetechnologies.com/images/shop/clothing/bg-collections/Backup_of_bg collectionlogoprev.png"
         />
       </Head>
 

@@ -18,7 +18,7 @@ const projects = [
     status: "Deployed to Production",
     description:
       "Highlights an intuitive user experience, integrating a dynamic interactive map for location tracking, seamless appointment booking functionality, and a sleek interface presenting hospital services. Witness my ability to blend aesthetics with practicality in this skillfully crafted website.",
-    link: "https://janetmemorialhospital.com",
+    link: "https://www.janetmemorialhospital.com/",
   },
   {
     title: "Cenepad (Customer)",

@@ -52,7 +52,7 @@ const Gracekitchen = () => {
         />
         <meta
           property="og:image"
-          content="https://tceetechnologies-w3fh.vercel.app/images/shop/catering/graces-kitchen-and-pasteries/graces-kitchen-and-pasteries-logoprev.jpg"
+          content="https://www.tceetechnologies.com/images/shop/catering/graces-kitchen-and-pasteries/graces-kitchen-and-pasteries-logoprev.jpg"
         />
       </Head>
 

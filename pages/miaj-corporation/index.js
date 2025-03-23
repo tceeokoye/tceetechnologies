@@ -104,7 +104,7 @@ const MiajCorporation = () => {
         />
         <meta
           property="og:image"
-          content="https://tceetechnologies-w3fh.vercel.app/images/shop/maij-corperation/maij-corperation-social-preview.png"
+          content="https://www.tceetechnologies.com/images/shop/maij-corperation/maij-corperation-social-preview.png"
         />
       </Head>
       <TeleCommunications

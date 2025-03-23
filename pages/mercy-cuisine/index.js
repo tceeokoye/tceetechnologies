@@ -46,7 +46,7 @@ const MercyCuisine = () => {
         />
         <meta
           property="og:image"
-          content="https://tceetechnologies-w3fh.vercel.app/images/shop/catering/mercy-cuisine/mercy-cuisine-social-preview.png"
+          content="https://www.tceetechnologies.com/images/shop/catering/mercy-cuisine/mercy-cuisine-social-preview.png"
         />
       </Head>
     

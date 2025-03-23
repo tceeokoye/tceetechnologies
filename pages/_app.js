@@ -39,19 +39,19 @@ export default function App({ Component, pageProps }) {
               '@context': 'https://schema.org',
               '@type': 'Organization',
               name: 'Tcee technologies | Front End Software Engineer',
-              url: 'https://tceetechnologies-w3fh.vercel.app',
-              logo: 'https://tceetechnologies-w3fh.vercel.app/favicon.ico', // URL to your logo image
+              url: 'https://www.tceetechnologies.com',
+              logo: 'https://www.tceetechnologies.com/favicon.ico', // URL to your logo image
             }),
           }}
         />
       <meta name="theme-color" content="#03262e" /> 
         <meta
           property="og:image"
-          content="https://tceetechnologies-w3fh.vercel.app/images/shop/TCEE.jpg"
+          content="https://www.tceetechnologies.com/images/shop/TCEE.jpg"
         />
         <meta
           property="og:url"
-          content="https://tceetechnologies-w3fh.vercel.app"
+          content="https://www.tceetechnologies.com"
         />
         <meta property="og:type" content="website" />
       </Head>
