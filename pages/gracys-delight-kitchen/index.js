@@ -31,7 +31,7 @@ const Gracekitchen = () => {
     <>
       <Head>
         <title>
-        Gracy's Delight Kitchen - Satisfying you with your budget African and contenental Dishes, Small Chops Smoothie Etc
+        Gracy's Delight Kitchen - Professional Printing Services – Flyers, Posters, Jotters, Souvenirs & More! Fast, Affordable, and High-Quality Prints for Every Need
         </title>
         <meta
           name="description"
@@ -58,9 +58,9 @@ const Gracekitchen = () => {
 
       <ShopInfo
         header="Gracy's Delight Kitchen"
-        title="Satisfying you with your budget African and contenental Dishes, Small Chops Smoothie Etc"
+        title="Professional Printing Services – Flyers, Posters, Jotters, Souvenirs & More! Fast, Affordable, and High-Quality Prints for Every Need"
         logo={GracekitchenLogo}
-        subTitle="Home for yummy and tasty treats"
+        subTitle="Your Print, Perfected – Fast, Reliable, and Budget-Friendly."
         products={products}
         shopImageFolder="graces-kitchen-and-pasteries"
         whatsappNumber= {whatsappNumber}
