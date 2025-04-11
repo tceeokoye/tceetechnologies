@@ -18,7 +18,7 @@ const socialInfo = [
   },
   {
     imageName: "facebook",
-    link: "https://facebook.com/victor.opulence",
+    link: "https://www.facebook.com/profile.php?id=61572169841359",
     value: "Tc Obichukwu",
   },
 ];
