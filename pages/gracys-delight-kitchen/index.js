@@ -31,7 +31,7 @@ const Gracekitchen = () => {
     <>
       <Head>
         <title>
-        Gracy's Delight Kitchen - Professional Printing Services – Flyers, Posters, Jotters, Souvenirs & More! Fast, Affordable, and High-Quality Prints for Every Need
+        Gracy's Delight Kitchen - Order Pot of food online | Authentic Homemade Meals Online
         </title>
         <meta
           name="description"
@@ -44,7 +44,7 @@ const Gracekitchen = () => {
         <meta name="author" content="Gracy's Delight Kitchen" />
         <meta
           property="og:title"
-          content="Gracy's Delight Kitchen - African and contenental Dishes, Small Chops Smoothie Etc"
+          content="Gracy's Delight Kitchen - We specialize in African and contenental Dishes"
         />
         <meta
           property="og:description"
@@ -58,9 +58,9 @@ const Gracekitchen = () => {
 
       <ShopInfo
         header="Gracy's Delight Kitchen"
-        title="Professional Printing Services – Flyers, Posters, Jotters, Souvenirs & More! Fast, Affordable, and High-Quality Prints for Every Need"
+        title="We specialize in African and contenental Dishes, Small Chops Smoothie Etc tailored to your preferences. Whether you're celebrating a birthday, wedding, or any special occasion, our delicious treats are crafted with care and creativity. Order now to experience the sweetness of Grace's"
         logo={GracekitchenLogo}
-        subTitle="Your Print, Perfected – Fast, Reliable, and Budget-Friendly."
+        subTitle="We specialize in African and contenental Dishes."
         products={products}
         shopImageFolder="graces-kitchen-and-pasteries"
         whatsappNumber= {whatsappNumber}
