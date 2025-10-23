@@ -93,13 +93,13 @@ const projects = [
 
 const myProjects = [
   {
-    title: "CREST",
-    type: "Website",
-    technology: "JavaScript",
+    title: "MARTAF",
+    type: "Progressive web app (PWA)",
+    technology: "Next.js, TailwindCss, Django, SQL , React.js MongoDB",
     status: "In Development",
     description:
-      "Advocates for transparency and accountability in government practices and works to address the systemic issues that hinder the rights and well-being of Nigerians. ",
-    link: "https://crestsust.org/",
+      "Martaf is a pan-African e-commerce platform aimed at connecting African manufacturers, artisans, and producers directly with consumers. By eliminating middlemen, Martaf empowers local businesses, promotes African culture, and delivers authentic products to a global audience. This platform integrates marketplace features, logistics, payment systems, and analytical tools into one user-friendly ecosystem."
+
   },
   {
     title: "Social Downloader",
@@ -121,13 +121,13 @@ const myProjects = [
   },
 
   {
-    title: "Opulence Calender",
-    type: "Website",
+    title: "ELGREEN GLOBAL CONSULT",
+    type: "Web App",
     technology: "React.js && Tailwind Css",
     status: "Deployed for Production",
     description:
-      "The website highlights a dynamic calendar system that offers users daily, weekly, and monthly views. Notably, I developed this system with the intention of making its underlying code accessible for fellow developers to utilize.",
-    link: "https://opulence-calender.vercel.app/",
+      "Top provider of integrated environmental and facility management solutions. With years of excellence, we deliver comprehensive services that keep your spaces clean, green, and productive. From industrial cleaning to agricultural production, we are your trusted partner in creating sustainable environments for business and community growth.",
+    link: "https://elgreenglobalconsult.com/",
   },
 ];
 
