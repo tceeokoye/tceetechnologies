@@ -34,7 +34,7 @@ const projects = [
     technology: "JavaScript, Node.js,  MongoDB",
     status: "Deployed to Production",
     description: "CHIZARAM OGAZI HOPE AND AID FOUNDATION (COHAAF) is a non profitable and non political entity registered under the law. It is founded by Barr. (Mrs.) Chizaram Queenette Ogazi, with the cardinal object of improving the well being of the less privileged in rural communities as commanded by Almighty God",
-    link: "https://cohaaf.vercel.app",
+    link: "https://cohaaf2.vercel.app/",
   },
   {
     title: "Duoiba",
@@ -81,6 +81,7 @@ const projects = [
       "Portfolio website of a product designer",
     link: " https://ologwusamuel.vercel.app/",
   },
+ 
 //{
  //   title: "Lizzy Match Tips",
  //   type: "Mobile App.",
@@ -128,6 +129,15 @@ const myProjects = [
     description:
       "Top provider of integrated environmental and facility management solutions. With years of excellence, we deliver comprehensive services that keep your spaces clean, green, and productive. From industrial cleaning to agricultural production, we are your trusted partner in creating sustainable environments for business and community growth.",
     link: "https://elgreenglobalconsult.com/",
+  },
+   {
+    title: "Global Connect",
+    type: "Web App",
+    technology: "Next.js",
+    status: "Deployed to Production",
+    description:
+      "Portfolio website of a product designer",
+    link: "https://www.theglobalconnectllc.com/",
   },
 ];
 
