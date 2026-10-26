@@ -85,7 +85,7 @@ export default function HeroSection() {
         {[
           { end: 50, label: "Projects Delivered" },
           { end: 20, label: "Happy Clients" },
-          { end: 5, label: "Years of Exp." },
+          { end: 6, label: "Years of Exp." },
         ].map((stat, i) => (
           <ScrollReveal3D key={stat.label} type="rise" delay={0.1 + i * 0.12} duration={0.6}>
             <motion.div
