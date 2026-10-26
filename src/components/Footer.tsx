@@ -42,15 +42,15 @@ export default function Footer() {
             </p>
             <div className="flex gap-1.75 mt-4">
               {[
-                { icon: LinkdinIcon, alt: "LinkedIn", w: 22.88, h: 22.88 },
-                { icon: TwitterXIcon, alt: "X", w: 24, h: 24 },
-                { icon: TicktockIcon, alt: "TikTok", w: 16.29, h: 18.75 },
-                { icon: GitHUbIcon, alt: "GitHub", w: 20, h: 19.52 },
-                { icon: FacebookIcon, alt: "Facebook", w: 10.15, h: 18.25 },
+                { icon: LinkdinIcon, alt: "LinkedIn", w: 22.88, h: 22.88, Link: "https://www.linkedin.com/in/tceetechnologies?utm_source=share_via&utm_content=profile&utm_medium=member_android"},
+                { icon: TwitterXIcon, alt: "X", w: 24, h: 24, Link: "https://x.com/Tcee_tech" },
+                { icon: TicktockIcon, alt: "TikTok", w: 16.29, h: 18.75, Link: "https://www.tiktok.com/@tceetechnologies.com?_r=1&_t=ZS-9AsZhgL92nd" },
+                { icon: GitHUbIcon, alt: "GitHub", w: 20, h: 19.52, Link: "https://github.com/tceeokoye" },
+                { icon: FacebookIcon, alt: "Facebook", w: 10.15, h: 18.25, Link: "https://www.facebook.com/tc.obichukwu" },
               ].map((item, i) => (
                 <a
                   key={i}
-                  href="#"
+                  href={item.Link}
                   className="w-10 h-10 rounded-lg bg-white flex items-center justify-center transition-all duration-200 hover:-translate-y-1 hover:shadow-md hover:scale-105 active:scale-95"
                 >
                   <Image

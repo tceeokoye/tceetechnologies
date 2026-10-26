@@ -4,29 +4,76 @@ import { motion } from "framer-motion";
 import Image from "next/image";
 import ScrollReveal3D from "./ScrollReveal3D";
 
+import BootImage from "@/assets/scroll/boot.jpg";
+import Der7507Image from "@/assets/scroll/DER_7507.jpg";
+import FirstImage from "@/assets/scroll/first.jpg";
+import Wa0024Image from "@/assets/scroll/IMG-20260818-WA0024.jpg";
+import Wa0028Image from "@/assets/scroll/IMG-20260818-WA0028.jpg";
+import Img6248 from "@/assets/scroll/IMG_6248.jpg";
+import Img6250 from "@/assets/scroll/IMG_6250.jpg";
+import Img6255 from "@/assets/scroll/IMG_6255.jpg";
+import Img6261 from "@/assets/scroll/IMG_6261.jpg";
+import Img6268 from "@/assets/scroll/IMG_6268.jpg";
+
 const slides = [
   {
     id: 1,
-    src: "/portfolio_dashboard.png",
-    alt: "Dashboard",
+    src: BootImage,
+    alt: "Boot",
     bgClass: "bg-primary/10",
   },
   {
     id: 2,
-    src: "/portfolio_mobile.png",
-    alt: "Mobile App",
+    src: Der7507Image,
+    alt: "DER 7507",
     bgClass: "bg-primary/5",
   },
   {
     id: 3,
-    src: "/portfolio_app.png",
-    alt: "Web App",
+    src: FirstImage,
+    alt: "First",
     bgClass: "bg-primary/10",
   },
   {
     id: 4,
-    src: "/hero_dashboard.png",
-    alt: "Platform",
+    src: Wa0024Image,
+    alt: "Image from August 18, 2026",
+    bgClass: "bg-primary/5",
+  },
+  {
+    id: 5,
+    src: Wa0028Image,
+    alt: "Image from August 18, 2026",
+    bgClass: "bg-primary/10",
+  },
+  {
+    id: 6,
+    src: Img6248,
+    alt: "Image 6248",
+    bgClass: "bg-primary/5",
+  },
+  {
+    id: 7,
+    src: Img6250,
+    alt: "Image 6250",
+    bgClass: "bg-primary/10",
+  },
+  {
+    id: 8,
+    src: Img6255,
+    alt: "Image 6255",
+    bgClass: "bg-primary/5",
+  },
+  {
+    id: 9,
+    src: Img6261,
+    alt: "Image 6261",
+    bgClass: "bg-primary/10",
+  },
+  {
+    id: 10,
+    src: Img6268,
+    alt: "Image 6268",
     bgClass: "bg-primary/5",
   },
 ];
@@ -98,7 +145,7 @@ export default function InfoSection() {
                 <p>
                   I run Tcee Technologies, a software engineering company
                   focused on designing and building high-performance digital
-                  products for businesses worldwide.
+                  products for businesses worldwide. I am also a tutor.
                 </p>
                 <p>
                   I combine strategy, design, and technology to create

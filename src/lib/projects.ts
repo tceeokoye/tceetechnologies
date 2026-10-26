@@ -3,8 +3,6 @@ import ConnectAfricaImage from "@/assets/projects/connectAfrica.svg";
 import ElgreenImage from "@/assets/projects/Elgreen.svg";
 import MartafImage from "@/assets/projects/martAf.svg";
 import OnaAgaWebApp from "@/assets/projects/onaagabg.svg";
-import OnaAgaDesktopMockup from "@/assets/projects/OnaAgaWebApp.png";
-import OnaAgaResponsiveMockup from "@/assets/projects/OnaAgaWebApp1.png";
 import type { StaticImageData } from "next/image";
 
 // Reusable two-phone mockup screen pair
@@ -67,15 +65,15 @@ export const projects: Project[] = [
     about: {
       text: "OnaAga is a Nigeria-focused ride-hailing platform connecting riders with verified drivers. Its experience brings together transparent fares, real-time trip tracking, and a straightforward driver onboarding journey, helping riders travel with confidence while creating flexible earning opportunities for local drivers.",
       mockup1: {
-        leftImage: "/onaagaAboutDesktop.jpeg",
+        leftImage: "/onaaga-mockup-home-about.png",
         rightImage: "/portfolio_app.png",
       },
       mockup2: {
-        leftImage: OnaAgaDesktopMockup,
+        leftImage: "/onaaga-mockup-about-benefits.png",
         rightImage: "/portfolio_mobile.png",
       },
       mockup3: {
-        leftImage: OnaAgaResponsiveMockup,
+        leftImage: "/onaaga-mockup-benefits-onboarding.png",
         rightImage: "/portfolio_app.png",
       },
     },
@@ -85,7 +83,7 @@ export const projects: Project[] = [
       title: "Challenge:",
       text: "Booking a ride can feel uncertain when passengers cannot easily verify a driver, understand the fare, or follow a trip. OnaAga addresses those concerns with driver verification, clear pricing, live GPS tracking, and dedicated support throughout the journey.",
       mockup: {
-        leftImage: "/onaaga-driver.png",
+        leftImage: "/onaaga-mockup-steps-faq.png",
         rightImage: "/portfolio_app.png",
       },
     },
@@ -111,15 +109,15 @@ export const projects: Project[] = [
     about: {
       text: "Chizaram Ogazi Hope and Aid Foundation (COHAAF) is a Port Harcourt-based nonprofit established in 2022. Its work supports orphaned children, elderly people, widows, and vulnerable communities through food aid, child protection, legal support, rural development, and community programs. The website brings the foundation's mission, work, milestones, and ways to get involved together.",
       mockup1: {
-        leftImage: "/cohaaf-outreach.jpg",
+        leftImage: "/cohaaf-mockup-home-mission.png",
         rightImage: "/portfolio_app.png",
       },
       mockup2: {
-        leftImage: "/cohaaf-community.jpg",
+        leftImage: "/cohaaf-mockup-programs-community.png",
         rightImage: "/portfolio_mobile.png",
       },
       mockup3: {
-        leftImage: "/cohaaf-ui.png",
+        leftImage: "/cohaaf-mockup-campaigns-impact.png",
         rightImage: "/portfolio_app.png",
       },
     },
@@ -129,7 +127,7 @@ export const projects: Project[] = [
       title: "Challenge:",
       text: "Visitors need to quickly understand COHAAF's wide-ranging community work and find a clear next step, whether they want to learn about its programs, volunteer, or support its initiatives. The website needed to make the organization's story and community work easy to explore.",
       mockup: {
-        leftImage: "/cohaaf-founder.jpeg",
+        leftImage: "/cohaaf-mockup-stories-join.png",
         rightImage: "/portfolio_app.png",
       },
     },
@@ -155,15 +153,15 @@ export const projects: Project[] = [
     about: {
       text: "Connect with Africa is a humanitarian initiative that links donors, healthcare institutions, and African communities. Its website explains how the organization identifies local needs, coordinates medical supplies and equipment, supports frontline healthcare workers, and builds partnerships with local clinics. Visitors can explore its programs, view field updates, and find ways to donate, volunteer, or partner.",
       mockup1: {
-        leftImage: "/connect-africa-ui.png",
+        leftImage: "/connect-africa-mockup-challenge-work.png",
         rightImage: "/portfolio_app.png",
       },
       mockup2: {
-        leftImage: "/connect-africa-medical-supplies.jpeg",
+        leftImage: "/connect-africa-mockup-work-initiative.png",
         rightImage: "/portfolio_mobile.png",
       },
       mockup3: {
-        leftImage: "/connect-africa-clinic.jpeg",
+        leftImage: "/connect-africa-mockup-impact-supplies.png",
         rightImage: "/portfolio_app.png",
       },
     },
@@ -173,7 +171,7 @@ export const projects: Project[] = [
       title: "Challenge:",
       text: "Healthcare facilities can lack essential equipment even when skilled professionals are ready to care for patients. Visitors also need a clear picture of how resources move from donors to clinics, what programs address those gaps, and how they can contribute beyond a financial donation.",
       mockup: {
-        leftImage: "/connect-africa-facility.jpeg",
+        leftImage: "/connect-africa-mockup-impact-facility.png",
         rightImage: "/portfolio_app.png",
       },
     },
@@ -199,15 +197,15 @@ export const projects: Project[] = [
     about: {
       text: "Elgreen Global Consult is a Nigerian service provider offering industrial and commercial cleaning, property maintenance, facility management, landscaping, agriculture, pest control, contracting, and waste management. Its website brings this broad service range together, highlights its sustainability and quality commitments, and gives prospective clients direct ways to request a quote or book through WhatsApp.",
       mockup1: {
-        leftImage: "/elgreen-ui.png",
+        leftImage: "/elgreen-mockup-home-services.png",
         rightImage: "/portfolio_app.png",
       },
       mockup2: {
-        leftImage: "/elgreen-industrial-cleaning.jpg",
+        leftImage: "/elgreen-mockup-service-landscaping.png",
         rightImage: "/portfolio_mobile.png",
       },
       mockup3: {
-        leftImage: "/elgreen-landscaping.jpg",
+        leftImage: "/elgreen-mockup-agriculture-support.png",
         rightImage: "/portfolio_app.png",
       },
     },
@@ -217,7 +215,7 @@ export const projects: Project[] = [
       title: "Challenge:",
       text: "With services ranging from cleaning and facility management to landscaping, agriculture, and waste disposal, visitors need to find the right service quickly and understand how to request help. The site also needs to build confidence in service quality and communicate Elgreen's environmentally responsible approach.",
       mockup: {
-        leftImage: "/elgreen-agriculture.jpg",
+        leftImage: "/elgreen-mockup-landscaping-agriculture.png",
         rightImage: "/portfolio_app.png",
       },
     },
@@ -242,15 +240,15 @@ export const projects: Project[] = [
     about: {
       text: "Martaf is an e-commerce marketplace for products across Africa, including fashion, electronics, home goods, appliances, and building materials. The storefront gives shoppers ways to search and browse categories, discover trending items, and explore product listings, while sellers can join the marketplace and manage their own products.",
       mockup1: {
-        leftImage: "/martaf-ui.png",
+        leftImage: "/martaf-mockup-home-categories.png",
         rightImage: "/portfolio_app.png",
       },
       mockup2: {
-        leftImage: "/martaf-fashion.jpg",
+        leftImage: "/martaf-mockup-trending-products.png",
         rightImage: "/portfolio_mobile.png",
       },
       mockup3: {
-        leftImage: "/martaf-electronics.jpg",
+        leftImage: "/martaf-mockup-catalog-benefits.png",
         rightImage: "/portfolio_app.png",
       },
     },
@@ -260,7 +258,7 @@ export const projects: Project[] = [
       title: "Challenge:",
       text: "A broad catalog needs to work for shoppers looking for different kinds of products, while sellers need a clear path to join and list their goods. The storefront must make product discovery straightforward and help users feel confident as they browse and shop.",
       mockup: {
-        leftImage: "/martaf-home-goods.jpg",
+        leftImage: "/martaf-mockup-impact-join.png",
         rightImage: "/portfolio_app.png",
       },
     },

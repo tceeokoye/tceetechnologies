@@ -71,7 +71,7 @@ export default function InteractiveMockupCard({
       >
         <div
           style={{ transform: "translateZ(15px)", transformStyle: "preserve-3d" }}
-          className="flex items-center justify-center w-full max-w-[523.88px] h-[531.84px] px-4"
+          className="flex items-center justify-center w-full max-w-[523.88px] h-[531.84px] px-[31.05px] py-[49.08px]"
         >
           <motion.div
             style={{
@@ -85,6 +85,7 @@ export default function InteractiveMockupCard({
               src={mockup.leftImage}
               alt="Project mockup preview"
               fill
+              sizes="(max-width: 640px) calc(100vw - 94px), 462px"
               className="object-contain"
             />
           </motion.div>
